@@ -1,0 +1,9 @@
+gh:
+  org: "seedcase-project"
+  repo: "template-rs"
+
+tagline: "An opinionated template for building Rust packages"
+
+links:
+  github: "https://github.com/seedcase-project/template-rs"
+  site: "https://template-rs.seedcase-project.org"

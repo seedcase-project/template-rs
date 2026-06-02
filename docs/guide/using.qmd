@@ -1,0 +1,49 @@
+---
+title: "Using the template"
+description: |
+  A walk-through on how to use this template for creating a new repository for a
+  Rust package or applying it to an existing repository.
+order: 2
+---
+
+This guide walks through how to use this template to create a new repository for
+your Rust package or apply it to an existing repository.
+
+## Creating a new Rust package repository
+
+You can use this template to create a new repository with a standard set of
+files and folders, as well as all the features and configurations to make it
+easier to build your repository smoothly and effectively. First, open a terminal
+and run the following command:
+
+```bash {filename="Terminal"}
+uvx copier copy gh:seedcase-project/template-rs path/to/PROJECT-NAME
+```
+
+The `copy` command uses the template on GitHub (`gh:`) at the
+`seedcase-project/template-rs` location. The `path/to/` is the location where
+you'd like the new repository to be created and `PROJECT-NAME` is the name you
+want to give for the new repository's directory and (ideally) the GitHub
+repository for the project. The name should be something short and meaningful,
+ideally lowercase, with `-` instead of spaces, and no special characters.
+
+## Applying to an existing repository
+
+If you want to use this template on an existing repository, you can use the
+`copy` command of `copier` just like above to apply the template to the existing
+repository. This will add all the template's files and configurations to the
+existing repository.
+
+```bash {filename="Terminal"}
+uvx copier copy gh:seedcase-project/template-rs path/to/EXISTING-PROJECT
+```
+
+See the comment above in the "Creating a new Rust package repository" section
+about the naming of the existing repository directory. It will go through a
+series of prompts, as in the case of creating a new repository, including asking
+if you want to overwrite existing files.
+
+::: callout-note
+To use the `copy` command, the existing repository needs to be tracked by Git
+and in a clean state (no changes have been made in the working directory).
+:::

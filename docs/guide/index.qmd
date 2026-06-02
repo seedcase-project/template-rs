@@ -1,0 +1,15 @@
+---
+title: "Guide"
+listing:
+  contents: .
+  type: grid
+  grid-columns: 1
+  sort: "order"
+  fields:
+    - title
+    - description
+---
+
+A guide to using template-rs to create a Rust package repository, updating it
+with changes from the template, and tasks to do after creating the repository to
+make it ready for solid development.
