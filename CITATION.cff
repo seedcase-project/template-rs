@@ -1,0 +1,22 @@
+title: "template-rs: An opinionated and comprehensive template for building Rust packages"
+abstract: |
+  A Copier template for making Rust packages as a Git repository that follows our
+  strongly opinionated practices for building, developing, and managing Rust
+  packages. See the <a href="https://template-rs.seedcase-project.org">website</a>
+  for more details.
+authors:
+  - family-names: Johnston
+    given-names: Luke William
+    orcid: "https://orcid.org/0000-0003-4169-2616"
+cff-version: 1.2.0
+# doi: ""
+# date-released: "YYYY-MM-DD"
+keywords:
+  - "copier template"
+  - "template"
+  - "template rust package"
+  - "template repository"
+license: MIT
+message: "Please cite us if you use this template."
+repository-code: "https://github.com/seedcase-project/template-rs"
+url: "https://template-rs.seedcase-project.org/"
