@@ -21,6 +21,14 @@ releases we've made so far, along with what was changed within each release.
 Commits from bots, like `dependabot` or `pre-commit-ci`, are not included in the
 changelog.
 
+## [0.1.2](https://github.com/seedcase-project/template-rs/compare/0.1.1..0.1.2) - 2026-06-05
+
+### 🐛 Fixes
+
+- Change file to be a Jinja file by
+  [`@lwjohnst86`](https://github.com/lwjohnst86)
+  ([88f8325](https://github.com/seedcase-project/template-rs/commit/88f8325102813280577216399c3cae37e575f4f7))
+
 ## [0.1.1](https://github.com/seedcase-project/template-rs/compare/0.1.0..0.1.1) - 2026-06-05
 
 ### 🐛 Fixes
