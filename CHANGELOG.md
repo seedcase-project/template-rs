@@ -21,6 +21,24 @@ releases we've made so far, along with what was changed within each release.
 Commits from bots, like `dependabot` or `pre-commit-ci`, are not included in the
 changelog.
 
+## [0.1.1](https://github.com/seedcase-project/template-rs/compare/0.1.0..0.1.1) - 2026-06-05
+
+### 🐛 Fixes
+
+- Set `Cargo.toml` as a Jinja file to trigger templating by
+  [`@lwjohnst86`](https://github.com/lwjohnst86)
+  ([f4edd6f](https://github.com/seedcase-project/template-rs/commit/f4edd6f2d335a5e2671974e71a28b4d1d68054cf))
+- Add hosting provider question by
+  [`@lwjohnst86`](https://github.com/lwjohnst86)
+  ([9e0be14](https://github.com/seedcase-project/template-rs/commit/9e0be14185c56cea66805cf16de9aa45e5afeb9a))
+- Remove leftover `test-docs` recipe by
+  [`@lwjohnst86`](https://github.com/lwjohnst86)
+  ([c345475](https://github.com/seedcase-project/template-rs/commit/c345475bf0732d3aebeb1a61073814f1fb5809c1))
+
+### ❤️ New contributors
+
+- `@dependabot[bot]` started making automated contributions
+
 ## [0.1.0] - 2026-06-05
 
 ### ✨ Features
@@ -164,5 +182,7 @@ changelog.
   ([c404582](https://github.com/seedcase-project/template-rs/commit/c4045829ac32fc77657796f07069c7bc97021c5f))
 
 ### ❤️ New contributors
+
+- `@github-actions[bot]` started making automated contributions
 
 - [`@lwjohnst86`](https://github.com/lwjohnst86) made their first contribution
