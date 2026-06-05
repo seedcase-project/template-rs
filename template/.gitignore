@@ -42,4 +42,3 @@ docs/.quarto/
 *.ipynb
 *.quarto_ipynb
 **/*.quarto_ipynb
-
