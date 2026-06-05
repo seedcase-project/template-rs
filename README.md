@@ -7,8 +7,8 @@
 [![Copier](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/copier-org/copier/master/img/badge/badge-grayscale-inverted-border-teal.json?raw=true.svg)](https://github.com/copier-org/copier)
 [![GitHub
 License](https://img.shields.io/github/license/seedcase-project/template-rs.svg)](https://github.com/seedcase-project/template-rs/blob/main/LICENSE.md)
-<!-- TODO: Uncomment if you will create releases, otherwise delete -->
-<!-- [![GitHub Release](https://img.shields.io/github/v/release/seedcase-project/template-rs.svg)](https://github.com/seedcase-project/template-rs/releases/latest) -->
+[![GitHub
+Release](https://img.shields.io/github/v/release/seedcase-project/template-rs.svg)](https://github.com/seedcase-project/template-rs/releases/latest)
 [![Checks](https://github.com/seedcase-project/template-rs/actions/workflows/checks.yml/badge.svg)](https://github.com/seedcase-project/template-rs/actions/workflows/checks.yml)
 [![Build
 website](https://github.com/seedcase-project/template-rs/actions/workflows/build-website.yml/badge.svg)](https://github.com/seedcase-project/template-rs/actions/workflows/build-website.yml)
