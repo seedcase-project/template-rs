@@ -21,6 +21,15 @@ releases we've made so far, along with what was changed within each release.
 Commits from bots, like `dependabot` or `pre-commit-ci`, are not included in the
 changelog.
 
+## [0.2.0](https://github.com/seedcase-project/template-rs/compare/0.1.2..0.2.0) - 2026-07-06
+
+### ✨ Features
+
+- Add `rustfmt.toml` to wrap doc comments
+  [#10](https://github.com/seedcase-project/template-rs/pull/10) by
+  [`@lwjohnst86`](https://github.com/lwjohnst86)
+  ([1c5dbfb](https://github.com/seedcase-project/template-rs/commit/1c5dbfb26fa28281dbdc9c7fe8dd4073190241b3))
+
 ## [0.1.2](https://github.com/seedcase-project/template-rs/compare/0.1.1..0.1.2) - 2026-06-05
 
 ### 🐛 Fixes
