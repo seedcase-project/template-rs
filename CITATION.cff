@@ -9,8 +9,8 @@ authors:
     given-names: Luke William
     orcid: "https://orcid.org/0000-0003-4169-2616"
 cff-version: 1.2.0
-# doi: ""
-# date-released: "YYYY-MM-DD"
+doi: "10.5281/zenodo.21218429"
+date-released: "2026-07-06"
 keywords:
   - "copier template"
   - "template"

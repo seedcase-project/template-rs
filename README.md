@@ -2,8 +2,7 @@
 
 # template-rs: An opinionated template for building Rust packages
 
-<!-- TODO: Add DOI when published -->
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21218428.svg)](https://doi.org/10.5281/zenodo.21218428)
 [![Copier](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/copier-org/copier/master/img/badge/badge-grayscale-inverted-border-teal.json?raw=true.svg)](https://github.com/copier-org/copier)
 [![GitHub
 License](https://img.shields.io/github/license/seedcase-project/template-rs.svg)](https://github.com/seedcase-project/template-rs/blob/main/LICENSE.md)
@@ -16,11 +15,9 @@ website](https://github.com/seedcase-project/template-rs/actions/workflows/build
 [![pre-commit.ci
 status](https://results.pre-commit.ci/badge/github/seedcase-project/template-rs/main.svg)](https://results.pre-commit.ci/latest/github/seedcase-project/template-rs/main)
 [![lifecycle](https://lifecycle.r-lib.org/articles/figures/lifecycle-experimental.svg)](https://lifecycle.r-lib.org/articles/stages.html#experimental)
-[![Project Status: WIP – Initial development is in progress, but there
-has not yet been a stable, usable release suitable for the
-public.](https://www.repostatus.org/badges/latest/wip.svg)](https://www.repostatus.org/#wip)
-<!-- TODO: Switch to active once it's published. -->
-<!-- [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active) -->
+[![Project Status: Active – The project has reached a stable, usable
+state and is being actively
+developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
 
 This repository contains a
 [Copier](https://copier.readthedocs.io/en/stable/) template for setting
@@ -59,13 +56,17 @@ This project is licensed under the [MIT License](LICENSE.md).
 
 If you use this project in your work, please cite it as follows:
 
-Johnston L.W. template-rs: An opinionated and comprehensive template for
-building Rust packages URL: https://template-rs.seedcase-project.org/
+Johnston L.W. (2026). template-rs: An opinionated and comprehensive
+template for building Rust packages DOI: 10.5281/zenodo.21218429 URL:
+https://template-rs.seedcase-project.org/
 
 Or as a BibTeX entry:
 
     @misc{YourReferenceHere,
     author = {Johnston, Luke William},
+    doi = {10.5281/zenodo.21218429},
+    month = {7},
     title = {template-rs: An opinionated and comprehensive template for building Rust packages},
-    url = {https://template-rs.seedcase-project.org/}
+    url = {https://template-rs.seedcase-project.org/},
+    year = {2026}
     }
