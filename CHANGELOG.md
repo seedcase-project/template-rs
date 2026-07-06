@@ -21,6 +21,34 @@ releases we've made so far, along with what was changed within each release.
 Commits from bots, like `dependabot` or `pre-commit-ci`, are not included in the
 changelog.
 
+## [0.2.1](https://github.com/seedcase-project/template-rs/compare/0.2.0..0.2.1) - 2026-07-06
+
+### 🐛 Fixes
+
+- Correct issues in `justfile` found when using them
+  [#14](https://github.com/seedcase-project/template-rs/pull/14) by
+  [`@lwjohnst86`](https://github.com/lwjohnst86)
+  ([dbeebf2](https://github.com/seedcase-project/template-rs/commit/dbeebf22ab00abd831deb4adfdc2756e26fc46ac))
+- Add path to `typos.toml` file in VS Code settings
+  [#12](https://github.com/seedcase-project/template-rs/pull/12) by
+  [`@lwjohnst86`](https://github.com/lwjohnst86)
+  ([3b881b4](https://github.com/seedcase-project/template-rs/commit/3b881b4520213b8244a1b4bc5d61ea77ecca1ac7))
+- Resolve Markdown formatting issues with rumdl
+  [#11](https://github.com/seedcase-project/template-rs/pull/11) by
+  [`@lwjohnst86`](https://github.com/lwjohnst86)
+  ([80ee52a](https://github.com/seedcase-project/template-rs/commit/80ee52a63be5cf33c14b88e4d6da297bec55c941))
+- Ignore Markdown files in Rust's build folder `target/`
+  [#13](https://github.com/seedcase-project/template-rs/pull/13) by
+  [`@lwjohnst86`](https://github.com/lwjohnst86)
+  ([a2d6189](https://github.com/seedcase-project/template-rs/commit/a2d6189246510a964826742e87e268c770059fa7))
+
+### 📝 Documentation
+
+- Add DOI after uploading to Zenodo
+  [#15](https://github.com/seedcase-project/template-rs/pull/15) by
+  [`@lwjohnst86`](https://github.com/lwjohnst86)
+  ([87551f1](https://github.com/seedcase-project/template-rs/commit/87551f16359ded446a1a2a698c57ef60bab6ad27))
+
 ## [0.2.0](https://github.com/seedcase-project/template-rs/compare/0.1.2..0.2.0) - 2026-07-06
 
 ### ✨ Features
