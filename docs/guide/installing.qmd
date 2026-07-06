@@ -41,3 +41,11 @@ and use in any project created with this template:
   settings from the command line. There are some post-creation steps we've
   included that use gh to simplify setting up a GitHub repository for the
   project.
+
+The `just format-rust` recipes requires the nightly (experimental) build of
+[rustfmt](https://github.com/rust-lang/rustfmt), which you can install using:
+
+```bash {filename="Terminal"}
+rustup toolchain add nightly
+rustup component add rustfmt --toolchain nightly
+```
