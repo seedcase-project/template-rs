@@ -21,6 +21,22 @@ releases we've made so far, along with what was changed within each release.
 Commits from bots, like `dependabot` or `pre-commit-ci`, are not included in the
 changelog.
 
+## [0.2.2](https://github.com/seedcase-project/template-rs/compare/0.2.1..0.2.2) - 2026-07-06
+
+### 🐛 Fixes
+
+- Add path to `rustfmt.toml` for rust-analyzer to use
+  [#17](https://github.com/seedcase-project/template-rs/pull/17) by
+  [`@lwjohnst86`](https://github.com/lwjohnst86)
+  ([7de22a2](https://github.com/seedcase-project/template-rs/commit/7de22a204210d329d19133594b7645590798e280))
+
+### 💄 Styling
+
+- Update Quarto theme
+  [#16](https://github.com/seedcase-project/template-rs/pull/16) by
+  [`@lwjohnst86`](https://github.com/lwjohnst86)
+  ([9e07988](https://github.com/seedcase-project/template-rs/commit/9e07988d7311111d438465bfa943ebce6ff8d56d))
+
 ## [0.2.1](https://github.com/seedcase-project/template-rs/compare/0.2.0..0.2.1) - 2026-07-06
 
 ### 🐛 Fixes
