@@ -1,6 +1,10 @@
 project:
   # TODO: Change to extension name if using a custom extension
   type: website
+  render:
+    # Ignore this folder, it is the Rust build folder.
+    - "!target/"
+
 
 website:
   # TODO: Fill in the title of the website.
