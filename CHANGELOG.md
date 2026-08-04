@@ -21,6 +21,20 @@ releases we've made so far, along with what was changed within each release.
 Commits from bots, like `dependabot` or `pre-commit-ci`, are not included in the
 changelog.
 
+## [0.3.0](https://github.com/seedcase-project/template-rs/compare/0.2.2..0.3.0) - 2026-08-04
+
+### ✨ Features
+
+- Add Seedcase badge in template Quarto config
+  [#18](https://github.com/seedcase-project/template-rs/pull/18) by
+  [`@signekb`](https://github.com/signekb)
+  ([4989e97](https://github.com/seedcase-project/template-rs/commit/4989e9712d7ada105f8252cc056627b7cfc70666))
+
+### ❤️ New contributors
+
+- [`@signekb`](https://github.com/signekb) made their first contribution in
+  [#18](https://github.com/seedcase-project/template-rs/pull/18)
+
 ## [0.2.2](https://github.com/seedcase-project/template-rs/compare/0.2.1..0.2.2) - 2026-07-06
 
 ### 🐛 Fixes
